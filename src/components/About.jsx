@@ -30,19 +30,19 @@ const About = () => {
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Welcome to Zentry
+          Welcome to EdVision360
         </p>
 
         <AnimatedTitle
-          title="Disc<b>o</b>ver the world's <br /> largest shared <b>a</b>dventure"
+          title="Explore Technologies"
           containerClass="mt-5 !text-black text-center"
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>The Game of Games begins—your life, with ed-tech</p>
           <p className="text-gray-500">
-            Zentry unites every player from countless games and platforms, both
-            digital and physical, into a unified Play Economy
+            Edvision unites every student from countless hopes and colleges,
+            both digital and physical, into a unified platform
           </p>
         </div>
       </div>
@@ -50,7 +50,7 @@ const About = () => {
       <div className="h-dvh w-screen" id="clip">
         <div className="mask-clip-path about-image">
           <img
-            src="img/about.webp"
+            src="img/about.png"
             alt="Background"
             className="absolute left-0 top-0 size-full object-cover"
           />
