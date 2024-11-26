@@ -73,7 +73,7 @@ const NavBar = () => {
           <div className="flex items-center gap-7">
             <img src="/img/logo.png" alt="logo" className="w-10" />
 
-            <a href="">
+            <a href="https://tagore-portfolio.onrender.com/">
               <Button
                 id="product-button"
                 title="Portfolio"
